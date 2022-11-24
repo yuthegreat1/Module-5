@@ -1,0 +1,4 @@
+Pymaceuticals Analysis
+Capomulin is the most popular drug regimen.
+Ramicane was the most effective drug treatment in reducing tumor size.
+Under Capomulin, tumor volume increased as the average weight of mice increased.
